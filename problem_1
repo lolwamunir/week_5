@@ -1,0 +1,4 @@
+
+SELECT * 
+FROM City
+WHERE COUNTRYCODE = 'USA' AND Population > 100000;
